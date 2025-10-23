@@ -5,7 +5,12 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "rainbow-api>=1.0.10",
+]
+
+[dependency-groups]
+dev = [
     "ipykernel>=7.0.1",
     "ipython>=9.6.0",
-    "rainbow-api>=1.0.10",
+    "nb-clean>=4.0.1",
 ]
