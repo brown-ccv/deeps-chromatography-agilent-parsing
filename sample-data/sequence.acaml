@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ACAML xmlns="urn:schemas-agilent-com:acaml15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Checksum Algorithm="MD5">
+		<Value>40xPd1gU5N4/6OYiyLQmCg==</Value>
+	</Checksum>
+	<Doc ContentVersioned="false">
+		<DocID>4679665a-75e0-4e96-9024-b20284306cd8</DocID>
+		<DocInfo>
+			<Description>ACAML Export</Description>
+			<CreatedByUser>GC128-LCMS-1\LCMS</CreatedByUser>
+			<CreatedByApplication>
+				<AgilentApp>
+					<Name>ChemStation</Name>
+					<Version>2.169.0.0</Version>
+				</AgilentApp>
+			</CreatedByApplication>
+			<CreationDate>2023-10-04T13:17:09.026-04:00</CreationDate>
+			<ClientName>GC128-LCMS-1</ClientName>
+		</DocInfo>
+		<Content>
+			<Resources />
+			<SampleContexts />
+			<SampleContextParams />
+			<Samples />
+			<SampleParams />
+			<Injections />
+			<InjectionParams />
+		</Content>
+	</Doc>
+</ACAML>
